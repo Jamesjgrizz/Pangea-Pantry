@@ -42,7 +42,7 @@ strong {
 }
 
 .grid--5cols {
-    grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
+    grid-template-columns: 1.3fr 1.3fr 1fr 1fr 1fr;
 }
 
 
@@ -709,13 +709,13 @@ input, select {
 
 .footer_logo{
     width: 10rem ;
-    margin-bottom: 2.4rem;
+    margin-bottom: 2rem;
 }
 
 .footer_section-socialMedia {
    display: flex;
    gap: 3rem;
-   margin-bottom: 6rem;
+   margin-bottom: 2rem;
 }
 
 .socialMedia {
@@ -736,18 +736,14 @@ input, select {
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 3.2rem;
-    align-self: flex-start;
-    display: flex;
     text-transform: uppercase;
 }
 
 .col-header {
-      color: var(--black_pepper);
+    color: var(--black_pepper);
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 3.2rem;
-    align-self: flex-start;
-    display: flex;
     text-transform: uppercase;
 }
 
